@@ -109,5 +109,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 \[LinkedIn / GitHub Profile]
 
 ---
-
-Would you like me to generate a tailored version for a **specific app idea** (e.g., a fitness app, task manager, e-commerce app)?
