@@ -106,6 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Your Name**
 \[adi20040930@gmail.com]
+
 \[LinkedIn / GitHub Profile]
 
 ---
